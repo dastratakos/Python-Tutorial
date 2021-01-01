@@ -2,6 +2,7 @@
 
 This notebook includes information about the following:
 - Python
-- Numpy
 - Matplotlib
+- Numpy
 - Pandas
+- Scikit-learn
